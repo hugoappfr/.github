@@ -1,2 +1,2 @@
-# .github
+# Hugo
 HUGO (Humanized Understanding Generated Optimally)
